@@ -21,3 +21,6 @@
 - git status
 - git add
 - git commit -m  
+
+## Local에서 Remote저장소로 보내기
+- git push -u origin main
