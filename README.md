@@ -2,6 +2,7 @@
 ## 성수캠퍼스
 11월 16일부터 20일까지 패스트캠퍼스 성수교육장에서 Git 관련 수업 내용을 정리해 봤습니다.
 CLI 명령어 환경에서 Git을 학습합니다.
+로컬 저장소와 리모트 저장소를 관리하는 방법도 학습했습니다.
 
 ## Command Line Interface (CLI)
 - pwd: Print Working Directory
@@ -24,6 +25,7 @@ CLI 명령어 환경에서 Git을 학습합니다.
 - git add
 - git commit -m (커밋 메시지 작성) 
 
-## Local에서 Remote저장소로 보내기
+## Local과 Remote저장소
 - git push -u origin main
+- git pull origin main (리모트에서 수정사항 로컬로 가져오기)
 - git reset --hard 태그명 (그 태그로 커밋 바꾸기..?)
