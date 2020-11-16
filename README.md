@@ -20,7 +20,7 @@
 - git init
 - git status
 - git add
-- git commit -m  
+- git commit -m (커밋 메시지 작성) 
 
 ## Local에서 Remote저장소로 보내기
 - git push -u origin main
