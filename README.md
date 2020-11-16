@@ -25,3 +25,4 @@
 
 ## Local에서 Remote저장소로 보내기
 - git push -u origin main
+- git reset --hard 태그명 (그 태그로 커밋 바꾸기..?)
