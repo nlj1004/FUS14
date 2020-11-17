@@ -7,7 +7,7 @@ CLI 명령어 환경에서 Git을 학습합니다.
 ## Command Line Interface (CLI)
 - pwd: Print Working Directory
 - whoami
-- clar
+- clear
 - mkdir
 - cd: Change Directory
 - ls: List Segments
