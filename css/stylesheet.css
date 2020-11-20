@@ -150,3 +150,13 @@
     color: #fff;
     font-size: 3rem;
   }
+
+  /* 메인 콘텐츠 */
+  .ediya-menu img{
+    border: 1px solid red;
+    max-width: 100%;
+    height: auto;
+  }
+
+  @media all and (max-width: 768px){
+  }
